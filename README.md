@@ -262,4 +262,4 @@ Maybe we're l33t after all!
 
 ![hackers dance](http://i.giphy.com/O3Ax7nxRerbI4.gif)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/receiving-api-posts'>Receiving API POSTs</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Receiving API POSTs</p>
